@@ -15,5 +15,5 @@ Use of Famous Python Library-'OpenCV' for implementing the utility of Scanning t
 
 ![myImage3](https://github.com/iamKed/OMR-Checking-using-Opencv/assets/98695336/6168c368-a59c-47c0-b041-83985e2f75a8)
 
-@Interface
+# Interface
 ![image](https://github.com/iamKed/OMR-Sheet-Checking-using-OpenCV/assets/98695336/c8af5561-64e7-4db5-8898-e49bdb3d9892)
